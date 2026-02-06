@@ -59,7 +59,9 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus {
+.contacts-link:focus,
+.button:hover,
+.button:focus {
   color: #404bbf;
 }
 
@@ -83,4 +85,13 @@ a {
 }
 .page-h2 {
   background-color: #f4f4fd;
+}
+.button {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background-color: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
 }
