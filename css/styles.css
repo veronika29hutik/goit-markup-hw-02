@@ -76,6 +76,8 @@ a {
 
 .hero-selection {
   background-color: #2e2f42;
+}
+.title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -94,4 +96,10 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+}
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+  background-color: #fff;
 }
